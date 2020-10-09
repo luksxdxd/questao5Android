@@ -1,4 +1,4 @@
-package com.example.trocaactivity;
+package com.example.questao5;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
